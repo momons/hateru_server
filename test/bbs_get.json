@@ -1,0 +1,15 @@
+{
+  "status": {
+    "appToken": "",
+    "appVersion": "",
+    "platform": "",
+    "userCode": "aaaa",
+    "userName": "",
+    "accessToken": ""
+  },
+  "params": {
+    "bbsCode": "aaaaa",
+    "offset": 0,
+    "count": 10
+  }
+}
